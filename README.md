@@ -64,4 +64,4 @@ The analysis highlights important trends in the real estate market, helping user
 ---
 
 ## 📎 Project File
-- `magicbricksproject.ipynb` – Complete analysis notebook  
+Complete analysis notebook : - [View Notebook (NBViewer)](https://nbviewer.org/github/your-username/your-repo-name/blob/main/magicbricksproject.ipynb)
